@@ -1,0 +1,31 @@
+# Data & Database
+pandas==2.1.0
+numpy==1.25.0
+sqlalchemy==2.0.20
+psycopg2-binary==2.9.7
+python-dotenv==1.0.0
+
+# API & Web
+requests==2.31.0
+httpx==0.24.1
+
+# Financial Data
+edgar==5.4.0
+fredapi==0.5.1
+
+# AI & RAG
+langchain==0.1.0
+langchain-openai==0.0.5
+chromadb==0.4.18
+openai==1.6.1
+
+# Dashboard
+streamlit==1.28.0
+plotly==5.17.0
+
+# Reporting
+python-pptx==0.6.21
+openpyxl==3.1.2
+
+# Testing
+pytest==7.4.0
