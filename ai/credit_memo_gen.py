@@ -8,7 +8,7 @@ import json
 from datetime import datetime
 from dotenv import load_dotenv
 from langchain_openai import ChatOpenAI
-from langchain.prompts import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from sqlalchemy import create_engine, text
 import logging
 
